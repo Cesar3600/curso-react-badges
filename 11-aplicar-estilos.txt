@@ -1,0 +1,18 @@
+se importa la clase
+no se coloca  en una variable
+
+se utiliza className en los nodos de jsx
+
+
+instalar bootstrap
+
+
+npm i -S bootstrap
+
+en index.js:
+ import './bootstrap'
+
+
+creamos archivo global.css 
+import './global.css'
+

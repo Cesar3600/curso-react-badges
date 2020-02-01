@@ -26,6 +26,8 @@
 import React from 'react'
 import {render} from 'react-dom'
 import Badge from './components/badge'
+import 'bootstrap/dist/css/bootstrap.css'
+import './global.css'
 
 //const mensaje= <h1>Hola desde React!!!</h1>
 const ubicacion = document.getElementById('app')
