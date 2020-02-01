@@ -1,10 +1,8 @@
 
-
-
-
-
 JSX
+---
 
+jsx es azucar sintetica, se va convertir en javascript
 una expresion es algo que se va interpretar y se va evaluar
 
 const name = 'stephanie

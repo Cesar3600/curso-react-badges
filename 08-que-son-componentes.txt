@@ -1,0 +1,30 @@
+
+
+que son componentes
+
+una casa es un elemento
+
+
+el componente es por ejemplo:
+
+una barra de busqueda
+unidad basica de desarrollo
+
+
+
+los componentes son como pieas de lego
+los componentes tiene ciclos de vida
+los componentes cuando pasan por cambios se actualizan
+
+componentDidUpdate()
+
+
+
+
+
+
+
+
+
+
+
