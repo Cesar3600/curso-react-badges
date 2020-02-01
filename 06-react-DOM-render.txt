@@ -1,0 +1,39 @@
+
+
+06 ReactDOM.render
+---------------
+
+ante de nada cree un repositorio nuevo en github y lo llame curso-react-badges
+
+abri la carpeta donde tengo los datos
+abri la carpeta config dentro de .git y 
+
+y coloque lo siguiente:
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+
+
+[remote "origin"]
+	url = https://github.com/Cesar3600/curso-react-badges
+	fetch = +refs/heads/*:refs/remotes/origin/*
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
