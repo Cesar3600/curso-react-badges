@@ -1,0 +1,23 @@
+
+
+
+
+
+JSX
+
+una expresion es algo que se va interpretar y se va evaluar
+
+const name = 'stephanie
+
+
+const jsx = <h1>Hola soy {name}</h1>
+
+render(jsx,document.getElementById('app'))
+
+
+react es javascript
+
+
+
+
+
