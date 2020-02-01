@@ -1,0 +1,8 @@
+
+PROPS
+-----
+
+son propiedades que residen dentro de un elemento y estos le pasan datos al componente
+
+
+
