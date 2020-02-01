@@ -31,6 +31,9 @@ import './global.css'
 
 //const mensaje= <h1>Hola desde React!!!</h1>
 const ubicacion = document.getElementById('app')
-
-render(<Badge/>,ubicacion)
+const fn = "Arturo"
+const ln = "Contreras"
+const charge = "Front-end Enginee Lead, lord of the universe"
+const avatarIcon = 'https://en.gravatar.com/userimage/173006276/1dcde46af380ddd4a90d558bc80bc955.jpeg'
+render(<Badge firstName={fn} lastName={ln} charge={charge} avatarIcon={avatarIcon}/>,ubicacion)
 
